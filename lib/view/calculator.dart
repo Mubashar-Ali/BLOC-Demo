@@ -50,11 +50,11 @@ class CalculatorPage extends StatelessWidget {
             ),
           ),
           const Divider(
-            height: 0,
+            // height: 0,s
             indent: 10,
             endIndent: 10,
             thickness: 1.5,
-            color: Colors.black12,
+            color: Colors.black26,
           ),
           Expanded(
             child: GridView.builder(
